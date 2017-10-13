@@ -1,5 +1,5 @@
 // Simple Avengers Quiz using vectors
-// Tyrick Covington
+
 
 
 #include<iostream>
